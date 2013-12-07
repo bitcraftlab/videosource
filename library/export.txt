@@ -1,0 +1,2 @@
+application=videosource.jar,gifAnimation.jar,pogg.jar
+applet=videosource.jar,gifAnimation.jar,pogg.jar
